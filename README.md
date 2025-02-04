@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mohinikumari9818/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mohinikumari9818/Leetcode/tree/master/0283-move-zeroes) |
 | [1319-unique-number-of-occurrences](https://github.com/mohinikumari9818/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/mohinikumari9818/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/mohinikumari9818/Leetcode/tree/master/0189-rotate-array) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/mohinikumari9818/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/mohinikumari9818/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mohinikumari9818/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/mohinikumari9818/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
