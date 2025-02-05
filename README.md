@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mohinikumari9818/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mohinikumari9818/Leetcode/tree/master/0283-move-zeroes) |
 | [1319-unique-number-of-occurrences](https://github.com/mohinikumari9818/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/mohinikumari9818/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/mohinikumari9818/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3429-special-array-i](https://github.com/mohinikumari9818/Leetcode/tree/master/3429-special-array-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mohinikumari9818/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
