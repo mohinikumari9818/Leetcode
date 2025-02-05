@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mohinikumari9818/Leetcode/tree/master/0001-two-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/mohinikumari9818/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mohinikumari9818/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/mohinikumari9818/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mohinikumari9818/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
@@ -36,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mohinikumari9818/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/mohinikumari9818/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mohinikumari9818/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
 | ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mohinikumari9818/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/mohinikumari9818/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mohinikumari9818/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Prefix Sum
