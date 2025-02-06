@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mohinikumari9818/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mohinikumari9818/Leetcode/tree/master/0283-move-zeroes) |
 | [1319-unique-number-of-occurrences](https://github.com/mohinikumari9818/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1364-tuple-with-same-product](https://github.com/mohinikumari9818/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mohinikumari9818/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/mohinikumari9818/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3429-special-array-i](https://github.com/mohinikumari9818/Leetcode/tree/master/3429-special-array-i) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mohinikumari9818/Leetcode/tree/master/0001-two-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/mohinikumari9818/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1364-tuple-with-same-product](https://github.com/mohinikumari9818/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mohinikumari9818/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/mohinikumari9818/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mohinikumari9818/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/mohinikumari9818/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mohinikumari9818/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/mohinikumari9818/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mohinikumari9818/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
