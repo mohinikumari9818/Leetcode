@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mohinikumari9818/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/mohinikumari9818/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3429-special-array-i](https://github.com/mohinikumari9818/Leetcode/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mohinikumari9818/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mohinikumari9818/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/mohinikumari9818/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mohinikumari9818/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/mohinikumari9818/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/mohinikumari9818/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mohinikumari9818/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mohinikumari9818/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/mohinikumari9818/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mohinikumari9818/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mohinikumari9818/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/mohinikumari9818/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
+## Simulation
+|  |
+| ------- |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mohinikumari9818/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
