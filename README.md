@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mohinikumari9818/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohinikumari9818/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/mohinikumari9818/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/mohinikumari9818/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mohinikumari9818/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mohinikumari9818/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mohinikumari9818/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/mohinikumari9818/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
