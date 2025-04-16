@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mohinikumari9818/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohinikumari9818/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/mohinikumari9818/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/mohinikumari9818/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mohinikumari9818/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mohinikumari9818/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mohinikumari9818/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohinikumari9818/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/mohinikumari9818/Leetcode/tree/master/0169-majority-element) |
 | [1319-unique-number-of-occurrences](https://github.com/mohinikumari9818/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/mohinikumari9818/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mohinikumari9818/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mohinikumari9818/Leetcode/tree/master/0169-majority-element) |
 | [1364-tuple-with-same-product](https://github.com/mohinikumari9818/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mohinikumari9818/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mohinikumari9818/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -89,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mohinikumari9818/Leetcode/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mohinikumari9818/Leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mohinikumari9818/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
