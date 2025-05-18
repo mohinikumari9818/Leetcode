@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mohinikumari9818/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mohinikumari9818/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mohinikumari9818/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/mohinikumari9818/Leetcode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/mohinikumari9818/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mohinikumari9818/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/mohinikumari9818/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/mohinikumari9818/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/mohinikumari9818/Leetcode/tree/master/0204-count-primes) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mohinikumari9818/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Two Pointers
 |  |
@@ -118,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mohinikumari9818/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mohinikumari9818/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mohinikumari9818/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
