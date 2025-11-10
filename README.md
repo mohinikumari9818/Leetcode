@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/mohinikumari9818/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/mohinikumari9818/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/mohinikumari9818/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1603-running-sum-of-1d-array](https://github.com/mohinikumari9818/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mohinikumari9818/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/mohinikumari9818/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohinikumari9818/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/mohinikumari9818/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1603-running-sum-of-1d-array](https://github.com/mohinikumari9818/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mohinikumari9818/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/mohinikumari9818/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Simulation
