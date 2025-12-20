@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/mohinikumari9818/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mohinikumari9818/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/mohinikumari9818/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/mohinikumari9818/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohinikumari9818/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mohinikumari9818/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3429-special-array-i](https://github.com/mohinikumari9818/Leetcode/tree/master/3429-special-array-i) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mohinikumari9818/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mohinikumari9818/Leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohinikumari9818/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/mohinikumari9818/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Dynamic Programming
 |  |
 | ------- |
