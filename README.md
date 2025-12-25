@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/mohinikumari9818/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohinikumari9818/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mohinikumari9818/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/mohinikumari9818/Leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3429-special-array-i](https://github.com/mohinikumari9818/Leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mohinikumari9818/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mohinikumari9818/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/mohinikumari9818/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mohinikumari9818/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/mohinikumari9818/Leetcode/tree/master/2434-design-a-number-container-system) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/mohinikumari9818/Leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mohinikumari9818/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/mohinikumari9818/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mohinikumari9818/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
