@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mohinikumari9818/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/mohinikumari9818/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mohinikumari9818/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [1044-longest-duplicate-substring](https://github.com/mohinikumari9818/Leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1078-remove-outermost-parentheses](https://github.com/mohinikumari9818/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mohinikumari9818/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mohinikumari9818/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/mohinikumari9818/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/mohinikumari9818/Leetcode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/mohinikumari9818/Leetcode/tree/master/0792-binary-search) |
+| [1044-longest-duplicate-substring](https://github.com/mohinikumari9818/Leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/mohinikumari9818/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mohinikumari9818/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
@@ -243,5 +245,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1044-longest-duplicate-substring](https://github.com/mohinikumari9818/Leetcode/tree/master/1044-longest-duplicate-substring) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohinikumari9818/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Rolling Hash
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/mohinikumari9818/Leetcode/tree/master/1044-longest-duplicate-substring) |
+## Suffix Array
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/mohinikumari9818/Leetcode/tree/master/1044-longest-duplicate-substring) |
+## Hash Function
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/mohinikumari9818/Leetcode/tree/master/1044-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
