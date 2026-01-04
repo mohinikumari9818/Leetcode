@@ -1,51 +1,38 @@
 class Solution {
-    private:
-        bool valid(char ch){
-            if((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z') || (ch >= '0' && ch <= '9')){
-                return 1;
-            }
-            return 0;
-        }
-
-        char tolowercase(char ch){
-            if((ch >= 'a' && ch <= 'z') || (ch >= '0' && ch <= '9')){
-                return ch;
-            }
-            else{
-                char temp = ch - 'A' + 'a';
-                return temp;
-            }
-        }
-
-        bool checkpalindrome(string s){
-            int start = 0;
-            int end = s.length() - 1;
-            while(start <= end){
-                if(s[start] != s[end]){
-                    return 0;
-                }
-                start++;
-                end--;
-            }
-            return 1;
-        }
 public:
     bool isPalindrome(string s) {
-        string temp = "";  
-        
-        
-        for(int i = 0; i < s.length(); i++){
-            if(valid(s[i])){
-                temp.push_back(s[i]);
+        int n=s.length();
+        int l=0;
+        int r=n-1;
+        bool ans =true;
+        while(l<r){
+            if(!isalnum(s[l])){
+                l++;
+                continue;
             }
-        }
+            if(!isalnum(s[r])){
+                r--;
+                continue;
+            }
+            int leftlower=s[l];
+            if(leftlower>='A' && leftlower<='Z'){
+                leftlower=leftlower+'a'-'A';
+            }
+            
 
-        
-        for(int i = 0; i < temp.length(); i++){  
-            temp[i] = tolowercase(temp[i]);
-        }
+            int rightlower=s[r];
+            if(rightlower>='A' && rightlower<='Z'){
+                rightlower=rightlower+'a'-'A';
+            }
+            
 
-        
-        return checkpalindrome(temp);
+            if(rightlower!=leftlower){
+                ans=false;
+                break;
+            }
+            l++;
+            r--;
+        }
+        return ans;
     }
 };
